@@ -15,7 +15,7 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=8.0",
-    "dallgoot/yaml": "^0.3.2",
+    "dallgoot/yaml": "^0.9.0",
     "nutgram/nutgram": "^3.7"
   }
 }
