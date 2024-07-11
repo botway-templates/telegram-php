@@ -16,6 +16,6 @@
   "require": {
     "php": ">=8.0",
     "dallgoot/yaml": "^0.3.2",
-    "nutgram/nutgram": "^3.7"
+    "nutgram/nutgram": "^4.24"
   }
 }
